@@ -28,7 +28,7 @@ Number: 9032
 EPA: 60.7  
 District: North Carolina
 
-### [Q Branch] (https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
+### [Q Branch](https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
 Number: 4327  
 EPA: 35.4  
 District: Michigan
