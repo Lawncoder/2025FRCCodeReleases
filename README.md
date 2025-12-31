@@ -33,17 +33,17 @@ Number: 4327
 EPA: 35.4  
 District: Michigan
 
-### [Rockway Robotics](https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
+### [Rockway Robotics](https://github.com/rockwayrobotics/FRC-2025)
 Number: 8089  
 EPA: 41.8  
 District: Ontario
 
-### [Mechnical Advantage](https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
+### [Mechnical Advantage](https://github.com/Mechanical-Advantage/RobotCode2025Public)
 Number: 6328  
 EPA: 70.3  
 District: Massachusets
 
-### [Jack in the Bot](https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
+### [Jack In The Bot](https://github.com/FRCTeam2910/2025CompetitionRobot-Public)
 Number: 2910  
 EPA: 114.1  
 District: Washington
