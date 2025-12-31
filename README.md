@@ -33,6 +33,21 @@ Number: 4327
 EPA: 35.4  
 District: Michigan
 
+### [Rockway Robotics](https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
+Number: 8089  
+EPA: 41.8  
+District: Ontario
+
+### [Mechnical Advantage](https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
+Number: 6328  
+EPA: 70.3  
+District: Massachusets
+
+### [Jack in the Bot](https://github.com/qbranch4327/2026-Q-Branch-Test-Code)
+Number: 2910  
+EPA: 114.1  
+District: Washington
+
 ## C++
 
 ### [Robonauts](https://www.118robonauts.org/_files/archives/209e0c_459d863f2b074bd0ab19aea91fb73294.zip?dn=2025_Firefly_Code.zip)
